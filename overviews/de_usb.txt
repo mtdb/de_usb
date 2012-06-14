@@ -1,0 +1,14 @@
+// overview description file for de_usb.bsp por mauricio reyes
+
+global 
+{
+	ZOOM	0.86
+	ORIGIN	106.00 	-86.00	298.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_usb.bmp"
+	HEIGHT	-501.00
+}
